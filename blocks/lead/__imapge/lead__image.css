@@ -1,0 +1,19 @@
+.lead__image {
+  background-image: url(/images/lead-image.png);
+  background-size: contain;
+  width: 100%;
+  padding-top: calc(615/984*100%);
+  margin-top: 64px;
+}
+
+@media all and (max-width: 1024px) {
+  .lead__image {
+    margin-top: 56px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .lead__image {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,25 @@
+.lead {
+  width: calc(984/1280*100%);
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 56px;
+  font-family: Inter;
+  font-style: normal;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+@media all and (max-width: 1024px) {
+  .lead {
+    width: calc(928/1024*100%);
+    padding-top: 48px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .lead {
+    width: calc(100%);
+  }
+}
