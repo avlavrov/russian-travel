@@ -20,6 +20,6 @@
 
 @media all and (max-width: 768px) {
   .lead {
-    width: calc(100%);
+    width: 100%;
   }
 }

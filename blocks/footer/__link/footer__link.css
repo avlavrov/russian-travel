@@ -1,0 +1,20 @@
+.footer__link {
+  color: #FFFFFF;
+  text-decoration: none;
+  transition: 0.4s linear;
+  margin-right: 16px;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+@media all and (max-width: 320px) {
+  .footer__link {
+    margin-bottom: 16px;
+  }
+}

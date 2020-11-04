@@ -5,6 +5,7 @@
   align-items: center;
   background: #2A2C2F;
   padding-top: 48px;
+  padding-bottom: 24px;
 }
 
 @media all and (max-width: 768px) {
