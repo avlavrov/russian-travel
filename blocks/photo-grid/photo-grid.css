@@ -23,7 +23,7 @@
   }
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 340px) {
   .photo-grid {
     width: calc(288/320*100%);
     padding-top: 64px;
