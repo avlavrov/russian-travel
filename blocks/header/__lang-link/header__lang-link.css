@@ -9,7 +9,7 @@
   color: #FFFFFF;
   margin-left: 18px;
   margin-top: 18px;
-  transition: linear 0.3s ;
+  transition: linear 0.3s;
   text-decoration: none;
 }
 
@@ -20,8 +20,8 @@
 @media all and (max-width: 320px) {
   .header__lang-link {
     font-size: 18px;
-  line-height: 20px;
-  weight: 400;
-  margin-top: 16px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-top: 16px;
   }
 }

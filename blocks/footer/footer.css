@@ -13,14 +13,14 @@
 
   @media all and (max-width: 1024px) {
     .footer {
-      width: 95.3125%px;
+      width: 95.3125%;
       max-width: 928px;
     }
   }
 
   @media all and (max-width: 768px) {
     .footer {
-      width: 96.875%px;
+      width: 96.875%;
       max-width: 720px;
     }
   }
