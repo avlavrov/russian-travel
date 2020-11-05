@@ -25,7 +25,7 @@
     }
   }
 
-  @media all and (max-width: 680px) {
+  @media all and (max-width: 710px) {
     .footer {
       align-self: flex-start;
       flex-direction: column;

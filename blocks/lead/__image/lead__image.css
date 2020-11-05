@@ -1,5 +1,5 @@
 .lead__image {
-  background-image: url(/images/lead-image.png);
+  background-image: url(../../../images/lead-image.png);
   background-size: contain;
   width: 100%;
   padding-top: calc(615/984*100%);
@@ -12,7 +12,7 @@
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 710px) {
   .lead__image {
     margin-top: 40px;
   }

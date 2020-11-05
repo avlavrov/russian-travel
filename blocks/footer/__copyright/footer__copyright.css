@@ -4,7 +4,7 @@
   margin-left: auto;
 }
 
-@media all and (max-width: 680px) {
+@media all and (max-width: 710px) {
   .footer__copyright {
     font-size: 14px;
     line-height: 14px;

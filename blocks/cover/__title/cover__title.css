@@ -18,7 +18,7 @@
   }
 }
 
-@media all and (max-width: 560px) {
+@media all and (max-width: 710px) {
   .cover__title {
     margin: calc(33/320*100%) 0 16px;
     width: 288px;

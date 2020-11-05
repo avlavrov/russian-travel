@@ -14,14 +14,14 @@
   padding-top: 0;
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1150px) {
   .place {
     column-gap: 32px;
     grid-template-columns: 440px 1fr;
   }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 950px) {
   .place {
     padding-top: 73px;
     column-gap: 28px;
@@ -29,7 +29,7 @@
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 710px) {
   .place {
     width: 100%;
     padding-top: 49px;
