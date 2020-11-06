@@ -3,7 +3,7 @@
     max-width: 1184px;
     display: flex;
     justify-content: space-between;
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -27,8 +27,8 @@
 
   @media all and (max-width: 710px) {
     .footer {
-      align-self: flex-start;
       flex-direction: column;
+      align-self: flex-start;
       font-size: 24px;
       line-height: 24px;
     }
